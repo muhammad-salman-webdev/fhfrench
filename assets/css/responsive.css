@@ -1,0 +1,1659 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+
+
+    /* Homepage One */
+
+    header.header-manu-section:before {
+        width: 348px;
+    }
+
+    .about-thumb img {
+        margin-left: -60px;
+    }
+
+    .about-thumb:before {
+        left: -90px;
+    }
+
+    .apartment-desc p {
+        padding-right: 0;
+    }
+
+    section.inside-area-section .dreamhouse-section-title h1 {
+        width: 90%;
+    }
+
+
+    /* Homepage Two */
+
+    section.about-section.style-two .about-thumb:after {
+        left: -82px;
+    }
+
+    .sticky nav.header-menu ul li {
+        padding: 24px 4px 24px 4px;
+    }    
+    
+    nav.header-menu ul li {
+        padding: 36px 4px 36px 4px;
+    }
+
+    .about-section-title h1 {
+        width: 100%;
+    }
+
+    .about-desc p {
+        width: 100%;
+    }
+
+    /* Homepage three */
+    
+    header.header-manu-section.style-three nav.header-menu ul li {
+        padding: 36px 6px 36px 6px;
+    }
+    
+    header.header-manu-section.sticky.style-three nav.header-menu ul li {
+        padding: 24px 6px 24px 6px;
+    }
+    
+    section.feature-section .dreamhouse-section-title.style-three h1 {
+        width: 70%;
+    }
+
+    section.habitation .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+    }
+
+    .habitation-thumb img {
+        margin-left: -25.2rem;
+    }
+
+    .habitation-desc p {
+        margin: 28px 0 18px;
+        width: 100%;
+    }
+
+    /* Contact Inner Page */
+
+    .form-name input, 
+    .form-mail input, 
+    .form-date input, 
+    .form-time input {
+        width: 250px;
+    }
+
+    /* Blog Details Inner Page */
+
+    section.blog-inner-section .form-name input, 
+    section.blog-inner-section .form-mail input {
+        width: 342px;
+    }
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    /* Homepage One */
+
+    header.header-manu-section::before {
+        width: 245px;
+    }
+
+    nav.header-menu {
+        text-align: center;
+    }
+
+    nav.header-menu ul li {
+        padding: 36px 6px 36px 6px;
+    }
+    
+    .sticky nav.header-menu ul li {
+        padding: 24px 6px 24px 6px;
+    }
+    
+    nav.header-menu ul li a {
+        padding: 10px 1px;
+    }
+
+    .slider-title h1 {
+        width: 64%;
+    }
+
+    .about-thumb img {
+        margin-left: -8rem;
+    }
+
+    .dreamhouse-section-title h1 {
+        width: 100%;
+    }
+
+    .property-plan th:nth-child(6), .property-plan td:nth-child(6) {
+        padding-right: 0;
+    }
+
+    .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 31.11%;
+    }
+
+    .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 32.9%;
+    }
+
+    section.inside-area-section .dreamhouse-section-title h1 {
+        width: 100%;
+    }
+
+    section.testimonial-section .dreamhouse-section-title h1 {
+        font-size: 36px;
+    }
+
+    section.our-team-section .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 32.4%;
+    }
+
+    section.our-team-section .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 34.5%;
+    }
+
+    .testimonial-slider-box {
+        margin-left: 55px;
+    }
+
+    .letest-news-section .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 30.7%;
+    }
+
+    .letest-news-section .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 32.7%;
+    }
+
+    .footer-newsletter-form input::placeholder {
+        font-size: 14px;
+    }
+
+    /* Homepage Two */
+
+    header.header-manu-section.style-two .header-menu-logo img {
+        margin-left: 0;
+    }
+
+    header.header-manu-section.style-two nav.header-menu ul li {
+        padding: 32px 0;
+    }
+
+    header.header-manu-section.style-two .header-menu-btn {
+        margin-right: 0;
+    }
+
+    header.header-manu-section.style-two .header-menu-btn a {
+        font-size: 15px;
+    }
+
+    header.header-manu-section.style-two nav.header-menu ul li a {
+        font-size: 15px;
+    }
+
+    .banner-title h1 {
+        font-size: 38px;
+    }
+
+    .about-thumb img {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .about-section-title h1 {
+        width: 92%;
+    }
+
+    section.text-slider-section .mark1 {
+        font-size: 100px;
+        line-height: 120px;
+    }
+
+    section.text-slider-section .mark2 {
+        font-size: 100px;
+        line-height: 125px;
+    }
+
+    .apartment-plan-tab ul li button {
+        font-size: 16px;
+        padding: 6px 14px;
+    }
+
+    .news-single-box-title a {
+        font-size: 20px;
+    }
+
+    /* Homepage three */
+
+    header.header-manu-section.style-three .header-menu-logo img {
+        padding-left: 32px;
+    }
+
+    header.header-manu-section.style-three nav.header-menu ul li {
+        padding: 46px 3px 46px 3px;
+    }
+    
+    header.header-manu-section.sticky.style-three nav.header-menu ul li {
+        padding: 24px 3px 24px 3px;
+    }
+
+    .hero-title h1 {
+        font-size: 74px;
+    }
+
+    .header-menu-btn {
+        margin-right: 20px;
+    }
+
+    section.feature-section .dreamhouse-section-title.style-three h1 {
+        width: 78%;
+    }
+
+    .habitation-thumb img {
+        margin-left: -30rem;
+    }
+
+    .place-view-btn.three {
+        left: 48rem;
+    }
+
+    .place-view-content.style3 {
+        top: 15.5rem;
+        left: 49.5rem;
+    }
+
+    .place-view-btn.two {
+        left: 52rem;
+    }
+
+    .place-view-content.style2 {
+        left: 42rem;
+    }
+
+    section.habitation .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+    }
+
+    section.service-section.style-two .dreamhouse-section-title.style-three h1 {
+        width: 80%;
+    }
+
+    section.letest-news-section.style-three .dreamhouse-section-title.style-three h1 {
+        width: 58%;
+    }
+
+    .news-box-title a {
+        font-size: 20px;
+    }
+
+    /* Contact Inner Page */
+
+    .form-name input, .form-mail input, .form-date input, .form-time input {
+        width: 207px;
+    }
+
+    /* Blog Inner Page */
+
+    .project-section-title h1 {
+        font-size: 32px;
+    }
+
+    .blog-latest-post-item {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .blog-tag ul li a {
+        padding: 4px 8px;
+    }
+
+    /* Testimonial Inner Page */
+
+    section.testimonial-inner-section .owl-prev {
+        top: 53%;
+        left: 0;
+    }    
+    
+    section.testimonial-inner-section .owl-next {
+        top: 53%;
+        right: 0;
+    }
+
+    
+    
+
+}
+
+
+
+@media (min-width: 1020px) and (max-width: 1065px) {
+
+    header.header-manu-section::before {
+        width: 280px;
+    }
+
+}
+
+@media (min-width: 1064px) and (max-width: 1100px) {
+
+    header.header-manu-section::before {
+        width: 290px;
+    }
+
+}
+
+@media (min-width: 1150px) and (max-width: 1200px) {
+
+    header.header-manu-section::before {
+        width: 350px;
+    }
+
+}
+    
+@media (min-width: 1150px) and (max-width: 1149px) {
+
+    header.header-manu-section::before {
+        width: 320px;
+    }
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /* Homepage One */
+
+    header.header-top-section {
+        display: none;
+    }
+
+    header.header-manu-section {
+        display: none;
+    }
+
+    section.slider-section {
+        text-align: center;
+    }
+
+    .slider-title h1 {
+        width: 100%;
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .about-thumb {
+        text-align: center;
+    }
+
+    .about-thumb::before {
+        left: inherit;
+        right: 7.3rem;
+    }
+
+    .about-content {
+        margin-top: 70px;
+        padding: 0 68px;
+    }
+
+    .apartment-btn {
+        text-align: left;
+    }
+
+    .apartment-plan-content {
+        padding: 26px 0 0;
+    }
+
+    .apartment-thumb {
+        margin-top: 50px;
+    }
+
+    .apartment-thumb img {
+        width: 100%;
+    }
+
+    section.inside-area-section {
+        padding: 100px 0;
+    }
+
+    .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 25%;
+    }
+
+    .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 27.9%;
+    }
+
+    .property-plan th:nth-child(1), .property-plan td:nth-child(1) {
+        padding-left: 10px;
+    }
+
+    .property-plan th:nth-child(6), .property-plan td:nth-child(6) {
+        padding-right: 0;
+    }
+
+    section.our-team-section .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 26.8%;
+    }
+
+    section.our-team-section .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 29.3%;
+    }
+
+    .dreamhouse-section-sub-title img {
+        display: none;
+    }
+
+    .dreamhouse-section-title h1 {
+        font-size: 26px;
+        width: 100%;
+        line-height: 30px;
+    }
+
+    .testimonial-slider-box {
+        margin-left: 50px;
+    }
+
+    .footer-logo img {
+        width: 180px;
+    }
+
+    .footer-social ul li {
+        display: inline-block;
+        margin: 0px;
+    }
+
+    .footer-newsletter-form button {
+        top: 60px;
+        left: 0;
+    }
+
+    /* Homepage Two */
+
+    section.banner-section {
+        height: 84rem;
+        padding: 100px 0;
+    }
+
+    .banner-thumb {
+        margin-top: 50px;
+    }
+
+    section.about-section.style-two .about-thumb::after {
+        left: 2.2rem;
+    }
+
+    .about-desc p {
+        width: 100%;
+    }
+
+    .facilitites-thumb-title h5 {
+        left: 45%;
+    }
+
+    section.text-slider-section .mark1 {
+        font-size: 100px;
+        line-height: 120px;
+    }
+
+    section.text-slider-section .mark2 {
+        font-size: 100px;
+        line-height: 125px;
+    }
+
+    .apartment-plan-tab {
+        text-align: center;
+        margin-top: 45px;
+        margin-bottom: 30px;
+    }
+
+    .apartment-plan-content {
+        padding: 40px 0 0;
+    }
+
+    .news-single-box-title a {
+        font-size: 15px;
+        margin: 10px 0 17px;
+    }
+
+    .news-single-box-date h6 {
+        font-size: 14px;
+    }
+
+    .news-single-box-date h6::before {
+        width: 0;
+    }
+
+    /* Homepage Three */
+
+    .hero-title h1 {
+        font-size: 80px;
+        letter-spacing: 20px;
+    }
+
+    .feature-thumb img {
+        margin-left: 0;
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    section.counter-section.style-two {
+        padding: 100px 0 60px;
+    }
+
+    .counter-box {
+        margin-bottom: 40px;
+    }
+
+    section.habitation {
+        background: #fff;
+        padding: 100px 0;
+    }
+
+    .place-view-content.style3 {
+        top: 7.5rem;
+        left: 34.5rem;
+    }
+
+    .place-view-content.style5 {
+        left: 4.5rem;
+    }
+
+    .place-view-content.style5 {
+        top: 5.5rem;
+        left: 4.5rem;
+    }
+
+    .habitation-thumb img {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    section.habitation .dreamhouse-section-sub-title {
+        margin-top: 40px;
+    }
+
+    .shedule-desc p {
+        width: 90%;
+    }
+
+    section.development-section .dreamhouse-section-title.style-three h1 {
+        width: 65%;
+    }
+
+    .place-view-btn.one {
+        top: 5rem;
+        left: 10rem;
+    }
+
+    .place-view-btn.five {
+        top: 26rem;
+        left: -3rem;
+    }
+
+    .place-view-btn.four {
+        top: 20rem;
+        left: 25rem;
+    }
+
+    .place-view-btn.three {
+        top: 7rem;
+        left: 38rem;
+    }
+
+    .place-view-content {
+        top: 13.5rem;
+        left: 4.5rem;
+    }
+
+    .dreamhouse-section-title.style-three h1 {
+        width: 66%;
+    }
+
+    .best-plan-thumb img {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    section.letest-news-section.style-three .dreamhouse-section-title.style-three h1 {
+        width: 70%;
+    }
+
+    .latest-single-box-content {
+        padding: 24px 20px 28px;
+    }
+
+    .news-box-title a {
+        font-size: 17px;
+    }
+
+    .news-single-box-desc p {
+        font-size: 14px;
+    }
+
+    /* Contact Inner Page */
+
+    .form-name input, .form-mail input, .form-date input, .form-time input {
+        width: 323px;
+    }
+
+    .form-btn {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    /* Blog Inner Page */
+
+    .blog-pagination {
+        margin-bottom: 80px;
+    }
+
+    /* Testimonial Inner Page */
+
+    section.testimonial-inner-section .owl-prev {
+        top: 57%;
+        left: -10px;
+    }
+
+    section.testimonial-inner-section .owl-next {
+        top: 57%;
+        right: -10px;
+    }
+
+    /* Blog Details */
+
+    .related-blog-single-box {
+        margin-bottom: 30px;
+    }
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+    /* Homepage One */
+
+    header.header-top-section {
+        display: none;
+    }
+
+    header.header-manu-section {
+        display: none;
+    }
+
+    section.slider-section {
+        text-align: center;
+    }
+
+    .slider-title h1 {
+        font-size: 36px;
+        line-height: 42px;
+        width: 100%;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .about-thumb::before {
+        right: 3rem;
+    }
+
+    .about-content {
+        margin-top: 70px;
+    }
+
+    .counter-box {
+        margin-bottom: 30px;
+    }
+
+    section.apartment-section {
+        padding: 100px 0 40px;
+    }
+
+    .apartment-btn {
+        text-align: left;
+        margin-top: 10px;
+    }
+
+    .apartment-plan {
+        margin-bottom: 45px;
+    }
+
+    section.inside-area-section {
+        background: #f7f7f7;
+        padding: 100px 0;
+    }
+
+    section.inside-area-section .dreamhouse-section-title h1 {
+        width: 100%;
+    }
+
+    .apartment-thumb img {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 16.11%;
+    }
+
+    .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 19.7%;
+    }
+
+    section.our-team-section .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 23%;
+    }
+
+    section.our-team-section .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 19.4%;
+    }
+
+    .our-team-single-box {
+        margin-bottom: 30px;
+    }
+
+    .letest-news-section .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 15.7%;
+    }
+
+    .letest-news-single-box {
+        margin-bottom: 40px;
+    }
+
+    footer.footer-section {
+        text-align: center;
+    }
+
+    .letest-news-section .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 19.3%;
+    }
+
+    .footer-social {
+        margin-bottom: 40px;
+    }
+
+    .footer-about {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+    .footer-explore {
+        margin-bottom: 30px;
+    }
+
+    /* Homepage Three */
+
+    .hero-title h1 {
+        font-size: 72px;
+        letter-spacing: 10px;
+    }
+
+    .feature-thumb img {
+        margin-left: 0;
+        margin-top: 40px;
+        width: 100%;
+    }
+
+    section.habitation {
+        background: #fff;
+        padding: 100px 0;
+    }
+
+    section.habitation .dreamhouse-section-title.style-three h1 {
+        width: 86%;
+    }
+
+    section.habitation .dreamhouse-section-sub-title {
+        display: flex;
+        align-items: center;
+        margin-top: 30px;
+    }
+
+    .habitation-thumb img {
+        margin-left: 0;
+        width: 100%;
+    }
+    
+    .shedule-desc p {
+        width: 100%;
+    }
+
+    section.service-section.style-two .dreamhouse-section-title.style-three h1 {
+        width: 70%;
+    }
+
+    section.development-section .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+    }
+
+    .place-view-btn.five {
+        left: -8rem;
+    }
+
+    .place-view-content {
+        left: -0.5rem;
+    }
+
+    .place-view-btn.one {
+        left: 2rem;
+    }
+
+    .place-view-btn.two {
+        left: 31rem;
+    }
+
+    .place-view-btn.four {
+        top: 20rem;
+        left: 19rem;
+    }
+
+    .best-plan-thumb img {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    section.letest-news-section.style-three .dreamhouse-section-title.style-three h1 {
+        width: 94%;
+    }
+
+    /* Contact Inner Page */
+    .form-name input, .form-mail input, .form-date input, .form-time input {
+        width: 236px;
+    }
+
+    .form-btn {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    /* Blog Inner Page */
+
+    .project-section-title h1 {
+        font-size: 26px;
+    }
+
+    .notice-desc p {
+        font-size: 21px;
+    }
+
+    .blog-pagination {
+        margin-bottom: 80px;
+    }
+
+    /* Homepage Two */
+
+    section.banner-section {
+        height: 63rem;
+        padding: 100px 0;
+    }
+
+    .banner-title h1 {
+        font-size: 40px;
+    }
+
+    .banner-thumb img {
+        height: 28rem;
+        margin-top: 50px;
+    }
+
+    section.about-section.style-two .about-thumb::after {
+        left: -20px;
+    }
+
+    .about-section-title h1 {
+        width: 80%;
+        font-size: 32px;
+    }
+
+    .about-desc p {
+        margin: 20px 0 24px;
+        width: 100%;
+    }
+
+    .service-desc p {
+        margin: 30px 0 0;
+    }
+
+    .fecilities-desc p {
+        margin: 30px 0 0;
+    }
+
+    section.text-slider-section .mark1 {
+        font-size: 80px;
+        line-height: 110px;
+    }
+
+    section.text-slider-section .mark2 {
+        font-size: 80px;
+        line-height: 120px;
+    }
+
+    .choose-apartment-desc p {
+        margin: 30px 0 0;
+    }
+
+    .building-aminities-tab ul li {
+        margin-right: 36px;
+    }
+
+    section.apartment-plan-section {
+        text-align: center;
+    }
+
+    .apartment-plan-tab {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .apartment-plan-tab ul li button {
+        font-size: 16px;
+        padding: 6px 18px;
+    }
+
+    .apartment-nagibrid-desc p {
+        margin: 30px 0 0;
+    }
+
+    /* Blog Details */
+
+    .related-blog-single-box {
+        margin-bottom: 30px;
+    }
+    
+
+}
+
+/* Midium Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+    /* Homepage One */
+
+    header.header-top-section {
+        display: none;
+    }
+
+    header.header-manu-section {
+        display: none;
+    }
+
+    section.slider-section {
+        text-align: center;
+    }
+
+    .slider-title h1 {
+        font-size: 60px;
+        line-height: 72px;
+        color: #ffffff;
+        font-weight: 700;
+        font-family: "Poppins";
+        width: 100%;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    .about-thumb::before {
+        right: 2rem;
+    }
+
+    .about-content {
+        margin-top: 70px;
+    }
+
+    .counter-box {
+        margin-bottom: 30px;
+    }
+
+    .apartment-btn {
+        text-align: left;
+        margin-top: 10px;
+    }
+
+    .apartment-plan {
+        margin-bottom: 40px;
+    }
+
+    section.inside-area-section {
+        background: #f7f7f7;
+        padding: 100px 0;
+    }
+
+    section.inside-area-section .dreamhouse-section-title h1 {
+        width: 100%;
+    }
+
+    .accordion {
+        margin-top: 40px;
+    }
+
+    .apartment-thumb {
+        margin-top: 40px;
+    }
+
+    .apartment-thumb img {
+        width: 100%;
+    }
+
+    .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 12.11%;
+    }
+
+    .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 15.7%;
+    }
+
+    section.our-team-section .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 14.4%;
+    }
+
+    section.our-team-section .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 19%;
+    }
+
+    .our-team-single-box {
+        margin-bottom: 30px;
+    }
+
+    .letest-news-section .dreamhouse-section-sub-title.style-2 img:nth-child(2) {
+        left: 10.7%;
+    }
+
+    .letest-news-single-box {
+        margin-bottom: 30px;
+    }
+
+
+    .letest-news-section .dreamhouse-section-sub-title.style-2 img:nth-child(3) {
+        right: 14.3%;
+    }
+
+    .property-plan th {
+        font-size: 13px;
+        width: 15% !important;
+    }
+
+    .property-plan td {
+        font-size: 13px;
+    }
+
+    .property-plan th:nth-child(1), .property-plan td:nth-child(1) {
+        padding-left: 12px;
+    }
+
+    .property-plan th:nth-child(6), .property-plan td:nth-child(6) {
+        padding-right: 12px;
+    }
+
+    /* Homepage Two */
+
+    section.banner-section {
+        height: 59rem;
+        padding: 100px 0;
+    }
+
+    .banner-title h1 {
+        font-size: 34px;
+    }
+
+    .banner-thumb img {
+        margin-top: 50px;
+        height: 24rem;
+    }
+
+    .about-desc p {
+        width: 100%;
+    }
+
+    .service-desc p {
+        margin: 20px 0 0;
+    }
+
+    .fecilities-desc p {
+        margin: 20px 0 0;
+    }
+
+    .facilitites-thumb-title h5 {
+        left: 41%;
+    }
+
+    section.text-slider-section .mark1 {
+        font-size: 80px;
+    }
+
+    section.text-slider-section .mark2 {
+        font-size: 80px;
+        line-height: 120px;
+    }
+
+    .choose-apartment-desc p {
+        margin: 20px 0 0;
+    }
+
+    .building-aminities-tab ul li {
+        margin-right: 22px;
+    }
+
+    .apartment-plan-tab {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .apartment-plan-tab ul li button {
+        font-size: 15px;
+        padding: 8px 17px;
+    }
+
+    .apartment-nagibrid-desc p {
+        margin: 20px 0 0;
+    }
+
+    /* Homepage Three */
+
+    .hero-title h1 {
+        font-size: 60px;
+        letter-spacing: 10px;
+    }
+
+    section.feature-section .dreamhouse-section-title.style-three h1 {
+        width: 77%;
+    }
+
+    .feature-thumb img {
+        margin-left: 0;
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    section.habitation {
+        padding: 100px 0;
+    }
+
+    .habitation-thumb img {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    section.habitation .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+    }
+
+    section.habitation .dreamhouse-section-sub-title {
+        margin-top: 30px;
+    }
+
+    .shedule-desc p {
+        width: 100%;
+    }
+
+    section.service-section.style-two .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+    }
+
+    section.development-section .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+    }
+
+    .place-view-btn.five {
+        left: -4rem;
+    }
+
+    .place-view-content {
+        left: 3.5rem;
+    }
+
+    .place-view-btn.one {
+        left: 3rem;
+    }
+
+    .place-view-btn.two {
+        left: 25rem;
+    }
+
+    .place-view-btn.three {
+        top: 20rem;
+        left: 18rem;
+    }
+
+    .best-plan-thumb img {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 30px;
+    }
+
+    section.letest-news-section.style-three .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+        font-size: 36px;
+    }
+
+    /* Contact Inner Page */
+
+    .form-name input, .form-mail input, .form-date input, .form-time input {
+        width: 206px;
+    }
+
+    .form-btn {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    /* Blog Inner Page */
+
+    .project-section-title h1 {
+        width: 80%;
+    }
+
+    .project-notice {
+        padding: 44px 52px;
+    }
+
+    /* Testimonial Inner Page */
+
+    section.testimonial-inner-section .owl-prev {
+        top: 45%;
+        left: 0;
+    }    
+    
+    section.testimonial-inner-section .owl-next {
+        top: 45%;
+        right: 0;
+    }
+
+
+
+}
+
+/* Midium Mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+    /* Homepage One */
+
+    header.header-top-section {
+        display: none;
+    }
+
+    header.header-manu-section {
+        display: none;
+    }
+
+    .slider-title h1 {
+        font-size: 30px;
+        line-height: 40px;
+        width: 100%;
+    }
+
+    .dreamhouse-section-title h1 {
+        font-size: 26px;
+        line-height: 38px;
+        margin: 17px auto 0;
+    }
+
+    .dreamhouse-section-sub-title h5 {
+        margin: auto;
+    }
+
+    .dreamhouse-section-sub-title img {
+        display: none;
+    }
+
+    section.apartment-section {
+        text-align: center;
+    }
+
+    .apartment-btn {
+        text-align: center;
+    }
+
+    .apartment-fecilities button {
+        margin-top: 14px;
+    }
+
+    .apartment-plan {
+        margin-bottom: 30px;
+        text-align: left;
+    }
+
+    section.inside-area-section {
+        padding: 100px 0;
+    }
+
+    .property-plan th {
+        font-size: 13px;
+    }
+
+    .property-plan td {
+        font-size: 13px;
+    }
+
+    .property-plan th:nth-child(1), .property-plan td:nth-child(1) {
+        padding-left: 12px;
+    }
+
+    .property-plan th:nth-child(6), .property-plan td:nth-child(6) {
+        padding-right: 12px;
+    }
+
+    section.inside-area-section .dreamhouse-section-title h1 {
+        width: 100%;
+    }
+
+    .apartment-thumb img {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .our-team-single-box {
+        margin-bottom: 30px;
+    }
+
+    .letest-news-single-box {
+        margin-bottom: 30px;
+    }
+
+    /* Homepage There */
+
+    header.header-manu-section.style-three {
+        display: none;
+    }
+
+    .hero-title h1 {
+        font-size: 43px;
+        letter-spacing: 10px;
+        line-height: 34px;
+    }
+
+    section.feature-section .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+        font-size: 38px;
+    }
+
+    .habitation-thumb img {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    section.habitation .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+    }
+
+    .habitation-desc p {
+        width: 100%;
+    }
+
+    .havitation-list {
+        display: flex;
+        align-items: inherit;
+        gap: 20px;
+    }
+
+    section.shedule-section.style-two .dreamhouse-section-title.style-three h1 {
+        font-size: 38px;
+    }
+
+    .shedule-desc p {
+        width: 100%;
+    }
+
+    section.service-section.style-two .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+        font-size: 32px;
+    }
+
+    section.development-section .dreamhouse-section-title.style-three h1 {
+        width: 100%;
+    }
+
+    .place-view-btn.five {
+        left: -7rem;
+    }
+
+    .place-view-content {
+        left: -0.5rem;
+    }
+
+    .place-view-btn.three {
+        top: 20rem;
+        left: 12rem;
+    }
+
+    .place-view-btn.two {
+        left: 15rem;
+    }
+
+    .place-view-btn.one {
+        left: 0rem;
+    }
+
+    .best-plan-thumb img {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    section.letest-news-section.style-three .dreamhouse-section-title.style-three h1 {
+        font-size: 30px;
+        width: 100%;
+    }
+
+    .latest-single-box-content {
+        padding: 34px 20px 40px;
+    }
+
+    /* Contact Inner Page */
+
+    .form-top, .form-middle {
+        flex-direction: column;
+    }
+
+    .form-name input, .form-mail input, .form-date input, .form-time input {
+        width: 279px;
+    }
+
+    .form-btn {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    /* Blog Inner Page */
+
+    .project-section-title h1 {
+        width: 90%;
+        font-size: 27px;
+    }
+
+    .project-notice {
+        margin: 50px 0;
+        padding: 30px;
+    }
+
+    .notice-desc p {
+        font-size: 19px;
+    }
+
+    .blog-pagination ul li {
+        margin: 0 4px 20px;
+    }
+
+    .blog-latest-post-item {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .blog-tag ul li a {
+        font-size: 14px;
+        padding: 6px 12px;
+    }
+
+    /* Testimonial Inner Page */
+
+    .testimonial-inner-desc p {
+        font-size: 18px;
+    }
+
+    section.testimonial-inner-section .owl-prev {
+        top: 42%;
+        left: -6px;
+    }
+    
+    section.testimonial-inner-section .owl-next {
+        top: 42%;
+        right: -6px;
+    }
+
+    /* Homepage Two */
+
+    header.header-manu-section.style-two {
+        display: none;
+    }
+
+    section.banner-section {
+        height: 58rem;
+        padding: 100px 0;
+    }
+
+    .banner-title h1 {
+        font-size: 24px;
+        line-height: 41px;
+        margin: 10px 0 26px;
+        width: 80%;
+    }
+
+    .banner-btn {
+        float: inherit;
+    }
+
+    .banner-thumb img {
+        height: 24rem;
+        margin-top: 30px;
+    }
+
+    section.banner-section .owl-nav {
+        bottom: 60px;
+    }
+
+    section.banner-section .owl-prev, section.banner-section .owl-next {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .about-thumb img {
+        width: 100%;
+    }
+
+    section.about-section.style-two .about-thumb::after {
+        left: -10rem;
+    }
+
+    .about-content {
+        margin-top: 50px;
+    }
+
+    .about-section-title h1 {
+        width: 100%;
+        font-size: 26px;
+    }
+
+    .service-desc p {
+        margin: 20px 0 0;
+    }
+
+    .fecilities-desc p {
+        margin: 20px 0 0;
+    }
+
+    section.fecilities-section .owl-prev, section.fecilities-section .owl-next {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    section.fecilities-section .owl-nav {
+        bottom: 0;
+        margin-left: 0;
+        left: 0;
+    }
+
+    section.text-slider-section .mark1 {
+        font-size: 60px;
+        line-height: 80px;
+    }
+
+    section.text-slider-section .mark2 {
+        font-size: 60px;
+        line-height: 85px;
+    }
+
+    section.choose-apartment-section {
+        padding: 80px 0;
+    }
+
+    .choose-apartment-desc p {
+        margin: 20px 0 0;
+    }
+
+    .building-aminities-tab ul li {
+        margin-right: 20px;
+        margin-bottom: 30px;
+    }
+
+    .apartment-plan-tab {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .apartment-plan-tab ul li {
+        display: inline-block;
+        margin-left: 0;
+        margin: 0 10px 20px;
+    }
+
+    .apartment-plan-tab ul li button {
+        font-size: 15px;
+        padding: 6px 14px;
+    }
+
+    .apartment-nagibrid-desc p {
+        margin: 20px 0 0;
+    }
+
+    .news-single-box-title a {
+        font-size: 18px;
+    }
+
+    /* Blog Details */
+
+    .related-blog-single-box {
+        margin-bottom: 30px;
+    }
+
+    .dreamhouse-inner-section-tilte h1 {
+        line-height: 60px;
+        font-size: 44px;
+    }
+
+    .blog-title h2 {
+        font-size: 30px;
+    }
+
+    .notice {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .blog-comment {
+        flex-direction: column;
+    }
+
+    .blog-comment.style-two {
+        margin-left: 0;
+    }
+
+}
